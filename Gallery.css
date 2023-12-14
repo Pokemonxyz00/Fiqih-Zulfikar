@@ -1,0 +1,67 @@
+body{
+    background-color: #FBF4D8;
+    }
+    #container{
+        width: 980px;
+        height: 900px;
+        margin: auto;
+    }
+    #header {
+        width: 980px;
+        height: 280px;
+        background-color: #7AC7F5;
+        background-image: url("Banner.jpg");
+        background-size: 100% 100%;
+    }	
+    #nav {
+        width: 980px;
+        height: 25px;
+        background: #7AC7F5;
+        border-style: none;
+        text-align: center;
+        margin: auto;
+    }
+    #nav a{
+        color: #FBF4D8;
+        text-decoration: none;
+        padding: 5px 10px 5px 10px;
+    }
+    #content {
+        width: 950px;
+        height: 580px;
+        background-color: #60B3E7;
+        padding: 10px 15px 10px 15px;
+    }
+    #content h1{
+        color: #FBF4D8;
+        text-align: center;
+    }
+    .gambar {
+        float: left;
+        margin: 5px;
+        width: 200px;
+        height: 205px;
+        padding: 10px 5px;
+        border: 1px solid #FBF4D8;
+    }
+    p{
+        text-align: center;
+        font-size: 16px;
+        color: #FBF4D8;
+    }
+    img{
+       width: 200px;
+    
+    }
+    #footer {
+        width: 980px;
+        height: 70px;
+        margin: auto;
+        background-color: #7AC7F5;
+        padding-top: 30px;
+    }
+    #footer P{
+        color: #FBF4D8;
+        text-align: center;
+
+    }

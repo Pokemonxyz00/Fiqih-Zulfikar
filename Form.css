@@ -1,0 +1,77 @@
+body{
+    background-color: #FBF4D8;
+    }
+    #container{
+        width: 980px;
+        margin: auto;
+        background-color: #60B3E7;
+    }
+    #header {
+        width: 980px;
+        height: 280px;
+        background-color: #7AC7F5;
+        background-image: url("Banner.jpg");
+        background-size: 100% 100%;
+    }	
+    #nav {
+        width: 980px;
+        height: 25px;
+        background: #7AC7F5;
+        border-style: none;
+        text-align: center;
+        margin: auto;
+    }
+    #nav a{
+        color: #FBF4D8;
+        text-decoration: none;
+        padding: 5px 10px 5px 10px;
+    }
+    form{
+        color: #FBF4D8;
+        width: 600px;
+        margin: auto;
+        padding: 10px 5px;
+        border-radius: 10px;
+        background-color: #60B3E7;
+    }
+    #h1 {
+        margin: auto;
+        color: #FBF4D8;
+        text-align: center;
+        font-size: 22px;
+    }
+    input[type=text], input[type=number], input[type=date], textarea, select{
+    width: 100%;
+    background-color: #7AC7F5;
+    padding: 10px 5px;
+    color: #FBF4D8;
+    border-radius: 7px;
+    border: none;
+    box-sizing: border-box;
+    }
+    input[type=radio], input[type=checkbox]{
+        color: #FBF4D8;
+        height: 10px;
+        width: 10px;
+        vertical-align: middle;
+        margin: 10px 5px;
+    }
+    input[type=submit], input[type=reset], input[type=button]{
+        background-color: #7AC7F5;
+        color: #FBF4D8;
+        padding: 10px 5px;
+        border: none;
+        border-radius: 3px;
+    }
+    #footer {
+        width: 980px;
+        height: 70px;
+        margin: auto;
+        background-color: #7AC7F5;
+        padding-top: 30px;
+    }
+    #footer P{
+        color: #FBF4D8;
+        text-align: center;
+
+    }
